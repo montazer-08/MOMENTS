@@ -1,0 +1,5 @@
+{
+  "name": "MOMENTS",
+  "description": "A life event manager to plan, track, and reflect on important moments. Features emotion tracking, task checklists, and memory archiving.",
+  "requestFramePermissions": []
+}
